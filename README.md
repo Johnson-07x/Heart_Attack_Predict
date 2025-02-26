@@ -20,7 +20,7 @@ Link to access streamlit: https://heart-attack-analysis-prediction.streamlit.app
 <img src="predict heart attack.gif"  />
 </p>
 
-## Introduction
+## Introduction Main
 
 Heart disease is a major health concern worldwide, accounting for a significant number of deaths each year. Early detection and prevention are crucial in managing this condition. Machine learning models offer a promising approach to predicting the likelihood of heart attacks based on clinical parameters. In this study, we have developed a classification model to predict whether a patient is at risk of experiencing a heart attack based on their clinical parameters.
 
